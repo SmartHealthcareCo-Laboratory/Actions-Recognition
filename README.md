@@ -1,8 +1,4 @@
 # Actions-Recognition 
-<<<<<<< HEAD
 Project Description
 ## System Structure
-The expirments is done with a smart home. We have deployed many sensors all around the house. vhgh
-
-gghhhhh
-
+There are many sensors deployed in the house. These sensors sense the environment by providing information about the temperature, the humidity, the light, the sound, etc.
