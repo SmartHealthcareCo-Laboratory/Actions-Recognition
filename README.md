@@ -18,7 +18,7 @@ There are many sensors deployed in the house. These sensors sense the environmen
     <td class="tg-yw4l">HU</td>
   </tr>
     <tr>
-    <td class="tg-yw4l">Infra-Red</td>
+    <td class="tg-yw4l">Infra Red</td>
     <td class="tg-yw4l">IR</td>
   </tr>
     <tr>
@@ -34,7 +34,7 @@ There are many sensors deployed in the house. These sensors sense the environmen
     <td class="tg-yw4l">MO</td>
   </tr>
     <tr>
-    <td class="tg-yw4l">Pressure sensor</td>
+    <td class="tg-yw4l">Pressure Sensor</td>
     <td class="tg-yw4l">PR</td>
   </tr>
     <tr>
@@ -43,7 +43,7 @@ There are many sensors deployed in the house. These sensors sense the environmen
   </tr>
     </tr>
     <tr>
-    <td class="tg-yw4l">Tilt sensor</td>
+    <td class="tg-yw4l">Tilt Sensor</td>
     <td class="tg-yw4l">TI</td>
   </tr>
     <tr>
@@ -51,7 +51,7 @@ There are many sensors deployed in the house. These sensors sense the environmen
     <td class="tg-yw4l">TO</td>
   </tr>
     <tr>
-    <td class="tg-yw4l">Vibration sensor</td>
+    <td class="tg-yw4l">Vibration Sensor</td>
     <td class="tg-yw4l">VA</td>
   </tr>
     </tr>
