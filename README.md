@@ -2,6 +2,7 @@
 Project Description
 ## System Structure
 There are many sensors deployed in the house. These sensors sense the environment by providing information about the temperature, the humidity, the light, the sound, etc. Every sensor is represented by two letter taken from its functionality as shown in the table below:
+
  **Table 1.** *System Equipment*
 <table class="tg">
   <tr>
